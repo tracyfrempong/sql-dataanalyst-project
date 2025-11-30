@@ -1,6 +1,6 @@
 # SQL Data Analytics Project
 
-This project demonstrates an end-to-end SQL data analytics workflow using a retail sales dataset. It covers database setup, data cleaning, dimensional modeling, and analytical queries designed to extract business insights from raw transactional data. Two reports, one customer-focused and one product-foccused are generated at the end.
+This project demonstrates an end-to-end SQL data analytics workflow using a retail sales dataset. It covers database setup, data cleaning, dimensional modeling, and analytical queries designed to extract business insights from raw transactional data. The main aim is to generate two final reports, customers report and products report, for further visualization in reporting tools.
 
 ## Project Overview
 
